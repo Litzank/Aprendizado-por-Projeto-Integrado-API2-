@@ -47,7 +47,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Questões para Análise
 
-Para aprofundar a compreensão sobre o comércio exterior dos municípios paulistas, os alunos deverão investigar as seguintes questões (se possível):
+Para aprofundar a compreensão sobre o comércio exterior dos municípios paulistas, se deve investigar as seguintes questões (se possível):
 *	Quais as principais cargas movimentadas?
 *	Quais os principais modais utilizados?
 *	Quais os principais origens e destinos?
