@@ -41,12 +41,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
 * Power BI
-* Microsoft Excel
-* Slack
+* Microsoft Excel (Office)
 * Python (Colab)
-* Mysql
+* GitHub
 
 ## Questões para Análise
 
@@ -85,7 +83,8 @@ A plataforma deverá conter os seguintes módulos:
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| Video do Problema | 01/04/2026 | a fazer  | [Video]()  |
+| 01                | 29/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 20/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 010/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
