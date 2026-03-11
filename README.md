@@ -45,6 +45,22 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Python (Colab)
 * Mysql
 
+##Questões para Análise
+
+Para aprofundar a compreensão sobre o comércio exterior dos municípios paulistas, os alunos deverão investigar as seguintes questões (se possível):
+*	Quais as principais cargas movimentadas?
+*	Quais os principais modais utilizados?
+*	Quais os principais origens e destinos?
+*	Como foi a evolução da movimentação ao longo do tempo?
+*	Quais as principais empresas movimentadoras de cargas perigosas com declaração realizada?
+
+##Funcionalidades da Plataforma
+
+A plataforma deverá conter os seguintes módulos:
+*	Visualização segmentada por região
+*	Dados referentes às movimentações de carga registradas pelo período de 2013 a 2025
+*	Mapas e gráficos de tendência
+
 
 
 # Product Backlog
