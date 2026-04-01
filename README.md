@@ -67,21 +67,21 @@ A plataforma deverá conter os seguintes módulos:
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de cargas perigosas do periodo de 2013 a 2025                                                    | 3          | 1      |
-| 2    | Alta       | Como cliente, quero no Python, estruturar os dados mesclados de maneira a deixar clara as informações presentes                                        | 3          | 1      |
-| 3    | Alta       | Como cliente, quero no Python, filtrar estados fora são paulo                                                                                          | 5          | 1      |
-| 4    | Alta       | Como cliente, quero no Python, filtrar UF a coluna de informações de municipios de destino e origem para seu corte                                     | 5          | 1      |
-| 5    | Alta       | Como cliente, quero no Python, destacar UF de destino e origem dos estados                                                                             | 5          | 1      |
-| 6    | Baixa      | Como cliente, quero no Python, mesclar as informações da PRF, sobre acidentes no periodo de 2013 e 2025                                               | 5          | 1      |
-| 7    | Baixa      | Como cliente, quero no Python, ser possivel estudar as informações da PRF, para posteriormente criar filtros das informações                          | 5          | 1      |
-| 8    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de origem               | 2          | 1      |
-| 9    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de destino              | 2          | 1      |
-| 10   | Alta      | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de quantidade           | 2          | 1      |
-| 11   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos cargas                  | 2          | 1      |
-| 12   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para origens             | 2          | 1      |
-| 13   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para destino             | 2          | 1      |
-| 14   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para quantidade          | 2          | 1      |
-| 15   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para cargas              | 2          | 1      |
+| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de cargas perigosas do periodo de 2013 a 2025                                                    | 4          | 1      |
+| 2    | Alta       | Como cliente, quero no Python, estruturar os dados mesclados de maneira a deixar clara as informações presentes                                        | 8          | 1      |
+| 3    | Alta       | Como cliente, quero no Python, filtrar estados fora são paulo                                                                                          | 2          | 1      |
+| 4    | Alta       | Como cliente, quero no Python, filtrar UF a coluna de informações de municipios de destino e origem para seu corte                                     | 2          | 1      |
+| 5    | Alta       | Como cliente, quero no Python, destacar UF de destino e origem dos estados                                                                             | 4          | 1      |
+| 6    | Baixa      | Como cliente, quero no Python, mesclar as informações da PRF, sobre acidentes no periodo de 2013 e 2025                                               | 10          | 1      |
+| 7    | Baixa      | Como cliente, quero no Python, ser possivel estudar as informações da PRF, para posteriormente criar filtros das informações                          | 10          | 1      |
+| 8    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de origem               | 8          | 1      |
+| 9    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de destino              | 8          | 1      |
+| 10   | Alta      | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de quantidade           | 8          | 1      |
+| 11   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos cargas                  | 8          | 1      |
+| 12   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para origens             | 4          | 1      |
+| 13   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para destino             | 4          | 1      |
+| 14   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para quantidade          | 4          | 1      |
+| 15   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para cargas              | 4          | 1      |
 
 
 
