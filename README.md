@@ -67,12 +67,21 @@ A plataforma deverá conter os seguintes módulos:
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
+| 1    | Alta       | Como Cliente, quero no Python, mesclar dos documentos de cargas perigosas do periodo de 2013 a 2025                                                    | 3          | 1      |
+| 2    | Alta       | Como cliente, quero no Python, estruturar os dados mesclados de maneira a deixar clara as informações presentes                                        | 3          | 1      |
+| 3    | Alta       | Como cliente, quero no Python, filtrar estados fora são paulo                                                                                          | 5          | 1      |
+| 4    | Alta       | Como cliente, quero no Python, filtrar UF a coluna de informações de municipios de destino e origem para seu corte                                     | 5          | 1      |
+| 5    | Alta       | Como cliente, quero no Python, destacar UF de destino e origem dos estados                                                                             | 5          | 1      |
+| 6    | Baixa      | Como cliente, quero no Python, mesclar as informações da PRF, sobre acidentes no periodo de 2013 e 2025                                               | 5          | 1      |
+| 7    | Baixa      | Como cliente, quero no Python, ser possivel estudar as informações da PRF, para posteriormente criar filtros das informações                          | 5          | 1      |
+| 8    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de origem               | 2          | 1      |
+| 9    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de destino              | 2          | 1      |
+| 10   | Alta      | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de quantidade           | 2          | 1      |
+| 11   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos cargas                  | 2          | 1      |
+| 12   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para origens             | 2          | 1      |
+| 13   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para destino             | 2          | 1      |
+| 14   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para quantidade          | 2          | 1      |
+| 15   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para cargas              | 2          | 1      |
 
 
 
