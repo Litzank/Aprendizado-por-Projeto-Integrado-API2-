@@ -74,15 +74,6 @@ A plataforma deverá conter os seguintes módulos:
 | 5    | Alta       | Como cliente, quero destacar UF de destino e origem dos estados, para que seja possivel ser tratado posteriormente nos graficos                                                                             | 4          | 1      |
 | 6    | Baixa      | Como cliente, quero mesclar as informações da PRF sobre acidentes no periodo de 2013 e 2025, para que seja possivel conseguir fazer o porte dessas informações para futuros graficos | 10          | 1      |
 | 7    | Baixa      | Como cliente, quero estruturar os dados mesclados da PRF, para posteriormente entender suas informações e filtrar suas informações                        | 10          | 1      |
-| 8    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de origem               | 8          | 1      |
-| 9    | Alta       | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de destino              | 8          | 1      |
-| 10   | Alta      | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos de quantidade           | 8          | 1      |
-| 11   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em graficos cargas                  | 8          | 1      |
-| 12   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para origens             | 4          | 1      |
-| 13   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para destino             | 4          | 1      |
-| 14   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para quantidade          | 4          | 1      |
-| 15   | Media     | Como cliente, quero no powerbi, verificar como as informações tratadas posteriormente para poderem ser trabalhadas em filtros para cargas              | 4          | 1      |
-
 
 
 
