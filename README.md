@@ -70,10 +70,14 @@ A plataforma deverá conter os seguintes módulos:
 | 1    | Alta       | Como cliente, quero mesclar dos documentos de cargas perigosas do periodo de 2013 a 2025, para conseguir fazer o porte dessas informações para futuros graficos | 4          | 1      |
 | 2    | Alta       | Como cliente, quero estruturar os dados mesclados de maneira a deixar clara as informações presente, para conseguir entender quais informações estão contidas nos dados mesclados| 8          | 1      |
 | 3    | Alta       | Como cliente, quero filtrar estados fora são paulo, para que tenha foco no estado de são paulo somente                                                                                          | 2          | 1      |
-| 4    | Alta       | Como cliente, quero filtrar a coluna UF de informações de municipios de destino e origem, para que sejam removidas do banco                                   | 2          | 1      |
-| 5    | Alta       | Como cliente, quero destacar UF de destino e origem dos estados, para que seja possivel ser tratado posteriormente nos graficos                                                                             | 4          | 1      |
-| 6    | Baixa      | Como cliente, quero mesclar as informações da PRF sobre acidentes no periodo de 2013 e 2025, para que seja possivel conseguir fazer o porte dessas informações para futuros graficos | 10          | 1      |
-| 7    | Baixa      | Como cliente, quero estruturar os dados mesclados da PRF, para posteriormente entender suas informações e filtrar suas informações                        | 10          | 1      |
+| 4    | Alta       | Como cliente, quero filtrar a coluna UF de informações de municipios de destino, para que sejam removidas do banco                                   | 2          | 1      |
+| 5    | Alta       | Como cliente, quero filtrar a coluna UF de informações de municipios de origem, para que sejam removidas do banco                                   | 2          | 1      |
+| 6    | Alta       | Como cliente, quero destacar UF de destino e origem dos estados, para que seja possivel ser tratado posteriormente nos graficos                                                                             | 4          | 1      |
+| 7    | Media       | Como cliente, quero padronizar a coluna “regional” no banco do DENATRAN para conter apenas o estado de São Paulo.                                                                            | 4          | 1      |
+| 8    | Media       | Como cliente, quero remover colunas adicionais do DENATRAN, como data, dia da semana e feridos leves ou ilesos, para simplificar a base.v                                                                            | 4          | 1      |
+| 9    | Media       | Como cliente, quero aplicar as mesmas transformações de limpeza em todas as bases do DENATRAN, para garantir consistência nos dados                                                                            | 4          | 1      |
+| 10    | Baixa      | Como cliente, quero mesclar as informações da PRF sobre acidentes no periodo de 2013 e 2025, para que seja possivel conseguir fazer o porte dessas informações para futuros graficos | 10          | 1      |
+| 11    | Baixa      | Como cliente, quero estruturar os dados mesclados da PRF, para posteriormente entender suas informações e filtrar suas informações                        | 10          | 1      |
 
 
 
