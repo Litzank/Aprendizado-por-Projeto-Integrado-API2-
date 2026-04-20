@@ -91,3 +91,17 @@ A plataforma deverá conter os seguintes módulos:
 | 02                | 20/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
+
+## 🔑 User Stories (Backlog do MVP)
+| ID  | User Story                                                                 | Prioridade | Estimativa |
+|-----|-----------------------------------------------------------------------------|------------|------------|
+| US1 | Como cliente Marcos, quero um grafico de destino dos produtos, para possibilidade de visualização das informações de destino dos produtos.         | Alta       | 8 pontos   |
+| US2 | Como cliente Marcos, quero um grafico de origem dos produtos, para possibilidade de visualização das informações de origem dos produtos.         | Alta       | 8 pontos   |
+| US3 | Como cliente Marcos, quero um grafico dos produtos e suas quantidades, para possibilidade de visualização das informações dos produtos e suas quantidades.         | Alta       | 8 pontos   |
+| US4 | Como cliente Marcos, quero um grafico dos tipos de transporte, para possibilidade de visualização das quantidades transportadas.         | Alta       | 8 pontos   |
+| US5 | Como cliente Marcos, quero um grafico do anual dos produtos, para possibilidade de visualização da crescente anual dos produtos.         | Alta       | 8 pontos   |
+| US6 | Como cliente Marcos, quero um filtro de destinos dos produtos, para possibilidade de visualização e seleção dos destinos.         | Media       | 4 pontos   |
+| US7 | Como cliente Marcos, quero um filtro de origem dos produtos, para possibilidade de visualização e seleção das origens.         | Media       | 4 pontos   |
+| US8 | Como cliente Marcos, quero um filtro dos tipos de produtos, para possibilidade de visualização e seleção de quais tipos de produtos queremos verificar. | Media       | 4 pontos   |
+| US9 | Como cliente Marcos, quero um filtro dos tipos de transporte, para possibilidade de visualização e seleção dos tipos de transporte utilizados. | Media       | 4 pontos   |
+| US10 | Como cliente Marcos, quero um filtro de anos, para possibilidade de visualização e seleção dos anos de maneira individual. | Media       | 4 pontos   |
