@@ -92,7 +92,7 @@ A plataforma deverá conter os seguintes módulos:
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
-## 🔑 User Stories (Backlog do MVP)
+## 🔑 User Stories (Backlog do MVP - Sprint 1)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como cliente Marcos, quero um grafico de destino dos produtos, para possibilidade de visualização das informações de destino dos produtos.         | Alta       | 8 pontos   |
