@@ -104,7 +104,7 @@ A plataforma deverá conter os seguintes módulos:
 | US8 | Como cliente Marcos, quero um filtro dos tipos de produtos, para possibilidade de visualização e seleção de quais tipos de produtos queremos verificar. | Media       | 4 pontos   |  1  |
 | US9 | Como cliente Marcos, quero um filtro dos tipos de transporte, para possibilidade de visualização e seleção dos tipos de transporte utilizados. | Media       | 4 pontos   |  1  |
 | US10 | Como cliente Marcos, quero um filtro de anos, para possibilidade de visualização e seleção dos anos de maneira individual. | Media       | 4 pontos   |  1  |
-| US11 | Como cliente Marcos, quero visualizar os gráficos com títulos claros, para melhor entendimento das informações apresentadas         | Baixa       | 2 pontos   |  1  |
+| US11 | Como cliente Marcos, quero visualizar os gráficos com títulos claros, para melhor entendimento das informações apresentadas         | Baixa       | 2 pontos   |  2  |
 | US12 | Como cliente Marcos, quero visualizar os gráficos com cores padronizadas, para facilitar a leitura dos dados.         | Baixa       | 2 pontos   |  2  |
 | US13 | Como cliente Marcos, quero visualizar legendas nos gráficos, para melhor identificação das informações exibidas.         | Baixa       | 2 pontos   |  2  |
 | US14 | Como cliente Marcos, quero aplicar múltiplos filtros simultaneamente, para analisar cenários mais específicos.        | Media       | 2 pontos   |  2  |
