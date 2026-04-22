@@ -109,3 +109,5 @@ A plataforma deverá conter os seguintes módulos:
 | US13 | Como cliente Marcos, quero visualizar legendas nos gráficos, para melhor identificação das informações exibidas.         | Baixa       | 2 pontos   |  2  |
 | US14 | Como cliente Marcos, quero aplicar múltiplos filtros simultaneamente, para analisar cenários mais específicos.        | Media       | 2 pontos   |  2  |
 | US15 | Como cliente Marcos, quero passar o mouse sobre os gráficos e visualizar detalhes (tooltip), para obter informações mais específicas.       | Media       | 2 pontos   |  2  |
+| US16 | Como cliente Marcos, quero um dashboard interativo consolidado com todos os gráficos e filtros funcionando de forma integrada, para permitir uma análise eficiente, comparativa e em tempo real dos dados logísticos.       | Alta       | 10 pontos   |  3  |
+
