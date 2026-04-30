@@ -10,8 +10,10 @@
 ---
 
 ## 📝 Descrição da Solução
-- Funcionalidades principais incluídas: Gráficos e filtros para análise de origem, destino, tipos de produtos, transporte e volume de cargas.  
+- Funcionalidades principais incluídas: Gráficos e filtros para análise de origem, destino, tipos de produtos, transporte e volume de cargas.
+  
 - Limitações do sistema: A solução se restringe à Sprint 1, voltada apenas para visualização e construção de dashboards, sem integração externa ou dados em tempo real, servindo como base para futuras evoluções.
+  
 - Escopo do projeto: Desenvolvimento de um dashboard demonstrativo para análise de cargas perigosas em São Paulo, com foco em origem, destino, tipos de transporte e volumes, utilizando gráficos e filtros para exploração dos dados.
   
 ---
@@ -52,19 +54,21 @@
 ---
 
 ## 📊 Critérios de Aceitação
--O MVP deve permitir a visualização e exploração da origem e do destino das cargas perigosas, oferecendo uma leitura clara dos principais fluxos logísticos por meio de gráficos interativos.
--As informações referentes aos tipos de cargas e suas respectivas quantidades precisam ser apresentadas de forma estruturada, facilitando a identificação de categorias mais relevantes dentro do conjunto de dados.
--A navegação temporal deve possibilitar a análise de diferentes períodos, como anos e meses, permitindo comparações que ajudem a compreender variações e tendências ao longo do tempo.
+- O MVP deve permitir a visualização e exploração da origem e do destino das cargas perigosas, oferecendo uma leitura clara dos principais fluxos logísticos por meio de gráficos interativos.
+
+- As informações referentes aos tipos de cargas e suas respectivas quantidades precisam ser apresentadas de forma estruturada, facilitando a identificação de categorias mais relevantes dentro do conjunto de dados.
+
+- A navegação temporal deve possibilitar a análise de diferentes períodos, como anos e meses, permitindo comparações que ajudem a compreender variações e tendências ao longo do tempo.
 
 ---
 
 ## 📈 Métricas de Validação
--Número de usuários que testaram o MVP: 5
--Feedback positivo:
+- Número de usuários que testaram o MVP: 5
+- Feedback positivo:
 O retorno dos usuários destacou a boa organização geral do dashboard, com ênfase na facilidade de compreensão das informações apresentadas. As ideias propostas foram bem aceitas, especialmente no que diz respeito à estrutura dos gráficos e à forma como os dados foram distribuídos. Também foi apontada uma boa base conceitual para evolução do produto, validando a proposta inicial do sistema.
--Problemas identificados:
+- Problemas identificados:
 Foram observadas dificuldades na estruturação e tratamento dos dados, principalmente em relação às UFs e à tipificação das cargas. Além disso, alguns pontos do MVP ainda apresentam limitações na consistência dos dados exibidos, o que impacta a precisão de certas análises dentro do dashboard.
--Indicadores de negócio:
+- Indicadores de negócio:
 Observou-se um aumento na visualização e no volume de cargas analisadas dentro do sistema, indicando maior engajamento na exploração dos dados ao longo do uso do MVP.
 
 ---
