@@ -18,8 +18,13 @@ Desenvolver uma ferramenta de Business Intelligence que apresente o tratamento d
 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
-# Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+# Equipe - Faclog
+
+
+|    Função     | Nome                                  |        LinkedIn & GitHub           |
+
+![Demo](Docs/Gravadorpor.gif)
+
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Augusto Adriano Silva de Oliveira   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/augustoprofile) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Litzank)              |
 |  Scrum Master  | Matheus Luiz da Silva Santos   |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-luiz-a1aa632ab/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/KillBotSamonela)
