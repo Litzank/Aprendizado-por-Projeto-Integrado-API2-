@@ -32,16 +32,17 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como finalidade apoiar a compreensão e a aplicação das normas relacionadas ao transporte de cargas perigosas e especiais, com foco em:
 
+*Classificação de materiais perigosos;
+*Legislação e conformidade normativa;
+*Gestão de riscos logísticos;
+*Boas práticas operacionais;
+*Capacitação técnica em logística.
 
 ## Tecnologias Utilizadas
 
+* Power Point
 * Power BI
 * Microsoft Excel (Office)
 * Python (Colab)
@@ -67,21 +68,24 @@ A plataforma deverá conter os seguintes módulos:
 
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+| Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como cliente, quero mesclar dos documentos de cargas perigosas do periodo de 2013 a 2025, para conseguir fazer o porte dessas informações para futuros graficos | 4          | 1      |
-| 2    | Alta       | Como cliente, quero estruturar os dados mesclados de maneira a deixar clara as informações presente, para conseguir entender quais informações estão contidas nos dados mesclados| 8          | 1      |
-| 3    | Alta       | Como cliente, quero filtrar estados fora são paulo, para que tenha foco no estado de são paulo somente                                                                                          | 2          | 1      |
-| 4    | Alta       | Como cliente, quero filtrar a coluna UF de informações de municipios de destino, para que sejam removidas do banco                                   | 2          | 1      |
-| 5    | Alta       | Como cliente, quero filtrar a coluna UF de informações de municipios de origem, para que sejam removidas do banco                                   | 2          | 1      |
-| 6    | Alta       | Como cliente, quero destacar UF de destino e origem dos estados, para que seja possivel ser tratado posteriormente nos graficos                                                                             | 4          | 1      |
-| 7    | Media       | Como cliente, quero padronizar a coluna “regional” no banco do DENATRAN para conter apenas o estado de São Paulo.                                                                            | 4          | 1      |
-| 8    | Media       | Como cliente, quero remover colunas adicionais do DENATRAN, como data, dia da semana e feridos leves ou ilesos, para simplificar a base.v                                                                            | 4          | 1      |
-| 9    | Media       | Como cliente, quero aplicar as mesmas transformações de limpeza em todas as bases do DENATRAN, para garantir consistência nos dados                                                                            | 4          | 1      |
-| 10    | Baixa      | Como cliente, quero mesclar as informações da PRF sobre acidentes no periodo de 2013 e 2025, para que seja possivel conseguir fazer o porte dessas informações para futuros graficos | 10          | 1      |
-| 11    | Baixa      | Como cliente, quero estruturar os dados mesclados da PRF, para posteriormente entender suas informações e filtrar suas informações                        | 10          | 1      |
-
-
+| US1 | Como cliente Marcos, quero um grafico de destino dos produtos, para possibilidade de visualização das informações de destino dos produtos.         | Alta       | 8 pontos   |  1  |
+| US2 | Como cliente Marcos, quero um grafico de origem dos produtos, para possibilidade de visualização das informações de origem dos produtos.         | Alta       | 8 pontos   |  1  |
+| US3 | Como cliente Marcos, quero um grafico dos produtos e suas quantidades, para possibilidade de visualização das informações dos produtos e suas quantidades.         | Alta       | 8 pontos   |  1  |
+| US4 | Como cliente Marcos, quero um grafico dos tipos de transporte, para possibilidade de visualização das quantidades transportadas.         | Alta       | 8 pontos   |  1  |
+| US5 | Como cliente Marcos, quero um grafico do anual dos produtos, para possibilidade de visualização da crescente anual dos produtos.         | Alta       | 8 pontos   |  1  |
+| US6 | Como cliente Marcos, quero um filtro de destinos dos produtos, para possibilidade de visualização e seleção dos destinos.         | Media       | 4 pontos   |  1  |
+| US7 | Como cliente Marcos, quero um filtro de origem dos produtos, para possibilidade de visualização e seleção das origens.         | Media       | 4 pontos   |  1  |
+| US8 | Como cliente Marcos, quero um filtro dos tipos de produtos, para possibilidade de visualização e seleção de quais tipos de produtos queremos verificar. | Media       | 4 pontos   |  1  |
+| US9 | Como cliente Marcos, quero um filtro dos tipos de transporte, para possibilidade de visualização e seleção dos tipos de transporte utilizados. | Media       | 4 pontos   |  1  |
+| US10 | Como cliente Marcos, quero um filtro de anos, para possibilidade de visualização e seleção dos anos de maneira individual. | Media       | 4 pontos   |  1  |
+| US11 | Como cliente Marcos, quero visualizar os gráficos com títulos claros, para melhor entendimento das informações apresentadas         | Baixa       | 2 pontos   |  2  |
+| US12 | Como cliente Marcos, quero visualizar os gráficos com cores padronizadas, para facilitar a leitura dos dados.         | Baixa       | 2 pontos   |  2  |
+| US13 | Como cliente Marcos, quero visualizar legendas nos gráficos, para melhor identificação das informações exibidas.         | Baixa       | 2 pontos   |  2  |
+| US14 | Como cliente Marcos, quero aplicar múltiplos filtros simultaneamente, para analisar cenários mais específicos.        | Media       | 2 pontos   |  2  |
+| US15 | Como cliente Marcos, quero passar o mouse sobre os gráficos e visualizar detalhes (tooltip), para obter informações mais específicas.       | Media       | 2 pontos   |  2  |
+| US16 | Como cliente Marcos, quero um dashboard interativo consolidado com todos os gráficos e filtros funcionando de forma integrada, para permitir uma análise eficiente, comparativa e em tempo real dos dados logísticos.       | Alta       | 10 pontos   |  3  |
 
   
 # Registro das Sprints
@@ -89,7 +93,7 @@ A plataforma deverá conter os seguintes módulos:
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | Video do Problema | 01/04/2026 | Entregue | [Video](https://www.youtube.com/watch?v=p4WN1IQ7SHc)|
-| 01                | 29/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 01                | 29/04/2026 | Entregue  | [MVP](MVP/sp1.md)  |
 | 02                | 20/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
