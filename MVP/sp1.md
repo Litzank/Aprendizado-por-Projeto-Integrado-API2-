@@ -1,23 +1,19 @@
 # 📌 MVP - [Aprendizado-por-Projeto-Integrado-API2]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?
-- De maneira primária entrega as necessidade de ilustrar melhor os dados de origem e destino das cargas transportadas tanto quanto suas quantidades e tipos.  
-- Qual hipótese será validada? 
-Quais são os polos de movimentam mais cargas e seus destinos, tanto quanto quais são as cargas mais movimentadas.
-- Qual valor será entregue ao usuário final?  
-Dashboard capazes de demonstrar ao cliente informações iniciais sobre os destinos e origem, com cargas, quantidade e filtros entre esses graficos.
+  
+- O projeto tem como objetivo principal suprir a necessidade de melhor visualização e compreensão dos dados relacionados ao transporte de cargas, especialmente no que se refere à origem, destino, tipos de produtos e suas respectivas quantidades. De maneira inicial, busca-se tornar mais clara a análise desses dados, permitindo uma leitura mais estruturada dos fluxos logísticos.
+
+- A hipótese considerada neste trabalho está relacionada à identificação dos principais polos de movimentação de cargas, bem como seus respectivos destinos, além da verificação de quais tipos de cargas apresentam maior volume de transporte. A partir disso, torna-se possível compreender padrões relevantes dentro do conjunto de dados analisado.
+
+- Como resultado, espera-se entregar um dashboard interativo capaz de fornecer ao usuário uma visão inicial e organizada das informações logísticas, permitindo a análise de origens e destinos das cargas, suas quantidades e tipos, além da aplicação de filtros entre os diferentes gráficos. Dessa forma, o usuário poderá explorar os dados de maneira mais dinâmica e obter uma visão mais completa do cenário estudado.
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
-
-  De forma a conseguir proporciar ao cliente um produto inicialmente demonstrativo exibindo suas informações primárias e estrutura para o futuro, adicionamos dashboards determinando as cargas perigosas correntes pelo estado de são paulo, propondo de momento sua exibição das cargas mais movimentadas, quantidade e tipos, nós limitando ao desenvolvimento dos dashboard e gráficos para que o produto base consiga ser produzido e então posteriormente de onde suas melhorias serão implementadas.
-
+- Funcionalidades principais incluídas: Gráficos e filtros para análise de origem, destino, tipos de produtos, transporte e volume de cargas.  
+- Limitações do sistema: A solução se restringe à Sprint 1, voltada apenas para visualização e construção de dashboards, sem integração externa ou dados em tempo real, servindo como base para futuras evoluções.
+- Escopo do projeto: Desenvolvimento de um dashboard demonstrativo para análise de cargas perigosas em São Paulo, com foco em origem, destino, tipos de transporte e volumes, utilizando gráficos e filtros para exploração dos dados.
+  
 ---
 
 ## 👥 Personas / Usuários-Alvo
