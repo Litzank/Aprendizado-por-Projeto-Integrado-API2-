@@ -64,10 +64,13 @@
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP: 5
+  
 - Feedback positivo:
 O retorno dos usuários destacou a boa organização geral do dashboard, com ênfase na facilidade de compreensão das informações apresentadas. As ideias propostas foram bem aceitas, especialmente no que diz respeito à estrutura dos gráficos e à forma como os dados foram distribuídos. Também foi apontada uma boa base conceitual para evolução do produto, validando a proposta inicial do sistema.
+
 - Problemas identificados:
 Foram observadas dificuldades na estruturação e tratamento dos dados, principalmente em relação às UFs e à tipificação das cargas. Além disso, alguns pontos do MVP ainda apresentam limitações na consistência dos dados exibidos, o que impacta a precisão de certas análises dentro do dashboard.
+
 - Indicadores de negócio:
 Observou-se um aumento na visualização e no volume de cargas analisadas dentro do sistema, indicando maior engajamento na exploração dos dados ao longo do uso do MVP.
 
