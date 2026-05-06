@@ -65,8 +65,9 @@ O escopo do MVP será focado apenas nos recursos essenciais de visualização e 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Entrega dos dashboards, filtros de informações e demonstrações de origem e destino | Concluído |
+| 02     | Polimento das informações e funcionalidades para melhor design das mesmos exibidos nos graficos | Em andamento |
+| 03     | Entrega do produto | A Fazer |
 
 ---
 
