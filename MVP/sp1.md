@@ -86,7 +86,6 @@ Planejamento futuros serão baseado em mais filtros para demonstração de infor
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
 
+-Collab
+![Dashboard](image/Docs/Python-Collab/Collab1°Sprint-1.png)
