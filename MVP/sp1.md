@@ -87,5 +87,5 @@ Planejamento futuros serão baseado em mais filtros para demonstração de infor
 
 ## 📂 Anexos / Evidências
 
--Collab
+- Collab
 ![Dashboard](/Docs/Python-Collab/Collab1°Sprint-1.png)
