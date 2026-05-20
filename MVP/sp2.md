@@ -1,11 +1,11 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - [Aprendizado-por-Projeto-Integrado-API2]
 
 # 🎯 Propósito do MVP
 
 O propósito do MVP é disponibilizar uma versão inicial de um dashboard de visualização de dados para gestores de projeto, focado em melhorar a interpretação e análise das informações apresentadas em gráficos.
 
 ## • Qual problema resolve?
-O MVP busca resolver a dificuldade na leitura e interpretação de dados em dashboards pouco intuitivos, especialmente quando os gráficos possuem baixa padronização visual, ausência de filtros combinados ou informações insuficientes para análise detalhada.
+O MVP busca resolver a dificuldade na leitura e interpretação de dados em dashboards pouco intuitivos, 
 
 ## • Qual hipótese será validada?
 A hipótese validada será a de que gráficos mais claros, padronizados e interativos aumentam a eficiência na análise de dados pelos gestores de projeto, facilitando a tomada de decisão e melhorando a experiência de uso da plataforma.
@@ -13,9 +13,7 @@ A hipótese validada será a de que gráficos mais claros, padronizados e intera
 ## • Qual valor será entregue ao usuário final?
 O usuário final terá acesso a visualizações mais organizadas, compreensíveis e interativas, permitindo identificar informações relevantes com maior rapidez e precisão através de:
 - títulos claros nos gráficos;
-- padronização visual de cores;
 - legendas explicativas;
-- filtros combinados;
 - exibição de detalhes via tooltip.
 
 ---
