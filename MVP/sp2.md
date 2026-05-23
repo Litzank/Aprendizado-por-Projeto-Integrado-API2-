@@ -97,7 +97,6 @@ O escopo do MVP será focado apenas nos recursos essenciais de visualização e 
 ![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-1.png)
 ![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-2.png)
 ![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-3.png)
-![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-4.png)
 ![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-5.png)
 ![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-6.png)
 ![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-7.png)
