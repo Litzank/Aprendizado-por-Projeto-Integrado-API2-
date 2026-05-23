@@ -34,11 +34,10 @@ Por se tratar de uma versão inicial do produto, algumas funcionalidades avança
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US11 | Como gestor de projeto, quero gráficos com títulos bem definidos, para facilitar a compreensão imediata das informações apresentadas.    | Baixa      | 2      | 2      |
-| US12 | Como gestor de projeto, quero gráficos com paleta de cores consistente, para melhorar a leitura visual e a interpretação dos dados.   | Baixa      | 2      | 2      |
-| US13 | Como gestor de projeto, quero gráficos com legendas claras, para identificar corretamente os elementos representados nas visualizações.   | Baixa      | 2      | 2      |
-| US14 | Como gestor de projeto, quero utilizar múltiplos filtros ao mesmo tempo, para realizar análises combinadas e obter diferentes perspectivas dos dados.   | Média      | 2      | 2      |
-| US15 | Como gestor de projeto, quero visualizar informações detalhadas ao interagir com os gráficos (tooltip), para aprofundar a análise de pontos específicos dos dados.   | Média      | 2      | 2      |
+| US11 | Como gestor de projeto, quero visualizar gráficos mais organizados e intuitivos, para melhorar a interpretação das informações apresentadas. | Média | 2 | 2 |
+| US12 | Como gestor de projeto, quero visualizar informações regionais através de um mapa interativo, para facilitar a análise geográfica dos dados. | Média | 3 | 3 |
+| US13 | Como gestor de projeto, quero acessar explicações sobre os gráficos apresentados, para compreender melhor os indicadores exibidos. | Média | 2 | 2 |
+| US14 | Como gestor de projeto, quero visualizar informações padronizadas e organizadas dos produtos, para reduzir inconsistências durante a análise dos dados. | Alta | 3 | 3 |
 
 ---
 
@@ -52,23 +51,27 @@ Por se tratar de uma versão inicial do produto, algumas funcionalidades avança
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir a visualização das origens e destinos das cargas perigosas através de gráficos e informações organizadas de forma clara. Os dados dos produtos e suas quantidades devem aparecer de maneira padronizada, facilitando a análise e interpretação das informações.
+
+- O sistema também deve permitir a navegação entre diferentes períodos, como meses e anos, além de possuir melhorias visuais, mapa regional e botão explicativo para auxiliar o usuário na compreensão dos gráficos apresentados. 
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 5
+
+- Os feedbacks recebidos foram positivos em relação à organização do dashboard e à facilidade de entendimento das informações apresentadas. Os usuários destacaram que os gráficos ficaram mais claros e que a estrutura do sistema facilita a visualização dos dados logísticos.
+
+- Também foram identificados alguns problemas relacionados à organização e tratamento dos dados, principalmente nas informações de UFs e classificação das cargas, causando pequenas inconsistências em determinadas análises.
+
+- Durante os testes foi observado um aumento na utilização dos filtros e na visualização das informações dentro da plataforma, demonstrando maior interesse dos usuários na análise dos dados. 
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Os próximos passos do projeto serão focados em melhorias de usabilidade, ajustes visuais e expansão das funcionalidades do dashboard.
+
+- Também está previsto o desenvolvimento de novos filtros e cenários de análise, permitindo que o usuário consiga acessar informações de forma mais rápida, prática e organizada dentro da plataforma. 
 
 ---
 
