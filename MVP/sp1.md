@@ -96,4 +96,4 @@ Planejamento futuros serão baseado em mais filtros para demonstração de infor
 
 - PowerBI
 
-![Dashboard](/Docs/PowerBi/PowerBi-1°Sprint.png)
+![Dashboard](/Docs/PowerBi/Sprint1°/PowerBi-1°Sprint.png)
