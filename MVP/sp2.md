@@ -91,6 +91,21 @@ O escopo do MVP será focado apenas nos recursos essenciais de visualização e 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+
+- Python/Collab
+
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-1.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-2.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-3.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-4.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-5.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-6.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab2°Sprint-7.png)
+
+---
+
+- PowerBI
+
+![Dashboard](/Docs/PowerBi/Sprint2°/PowerBi-1°Sprint.png)
+![Dashboard](/Docs/PowerBi/Sprint2°/PowerBi-2°Sprint.png)
+![Dashboard](/Docs/PowerBi/Sprint2°/PowerBi-3°Sprint.png)
