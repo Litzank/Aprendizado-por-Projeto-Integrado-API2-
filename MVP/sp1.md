@@ -89,8 +89,8 @@ Planejamento futuros serão baseado em mais filtros para demonstração de infor
 
 - Python/Collab
 
-![Dashboard](/Docs/Python-Collab/Collab1°Sprint-1.png)
-![Dashboard](/Docs/Python-Collab/Collab1°Sprint-2.png)
+![Dashboard](/Docs/Python-Collab/Sprint1°/Collab1°Sprint-1.png)
+![Dashboard](/Docs/Python-Collab/Sprint2°/Collab1°Sprint-2.png)
 
 ---
 
