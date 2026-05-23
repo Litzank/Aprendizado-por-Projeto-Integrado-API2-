@@ -1,43 +1,25 @@
 # 📌 MVP - [Aprendizado-por-Projeto-Integrado-API2]
 
-# 🎯 Propósito do MVP
-
-O propósito do MVP é disponibilizar uma versão inicial de um dashboard de visualização de dados para gestores de projeto, focado em melhorar a interpretação e análise das informações apresentadas em gráficos.
+## 🎯 Propósito do MVP
 
 ## • Qual problema resolve?
-O MVP busca resolver a dificuldade na leitura e interpretação de dados em dashboards pouco intuitivos, 
+O propósito do MVP é disponibilizar uma versão inicial aprimorada de um dashboard de visualização de dados voltado para gestores de projeto, buscando melhorar a interpretação das informações apresentadas e tornar a navegação mais intuitiva. O desenvolvimento desta etapa também contempla um retrabalho no banco de dados para refinamento das informações dos produtos, além da implementação de melhorias visuais na interface e novos recursos de apoio à análise de dados.
 
 ## • Qual hipótese será validada?
-A hipótese validada será a de que gráficos mais claros, padronizados e interativos aumentam a eficiência na análise de dados pelos gestores de projeto, facilitando a tomada de decisão e melhorando a experiência de uso da plataforma.
+O projeto busca resolver dificuldades relacionadas à organização das informações exibidas no dashboard, inconsistências nos dados cadastrados e limitações na interpretação dos gráficos apresentados. Para isso, serão adicionados recursos como um mapa regional para visualização geográfica das informações e um botão explicativo que auxiliará os usuários na compreensão dos indicadores exibidos nos gráficos.
 
 ## • Qual valor será entregue ao usuário final?
-O usuário final terá acesso a visualizações mais organizadas, compreensíveis e interativas, permitindo identificar informações relevantes com maior rapidez e precisão através de:
-- títulos claros nos gráficos;
-- legendas explicativas;
-- exibição de detalhes via tooltip.
+A hipótese validada pelo MVP será a de que melhorias visuais, organização mais refinada dos dados e funcionalidades explicativas aumentam a eficiência na análise das informações pelos gestores de projeto, proporcionando uma experiência mais clara, intuitiva e funcional durante o uso da plataforma.
 
 ---
 
 # 📝 Descrição da Solução
-
-O MVP consistirá no desenvolvimento de um painel de visualização de dados contendo gráficos interativos e elementos básicos de usabilidade voltados à análise de projetos.
-
 ## • Funcionalidades principais incluídas
-- Exibição de gráficos com títulos bem definidos;
-- Uso de paleta de cores consistente entre os gráficos;
-- Inclusão de legendas claras para identificação dos dados;
-- Aplicação de múltiplos filtros simultaneamente;
-- Exibição de informações detalhadas ao passar o cursor sobre os gráficos (tooltip).
+O MVP consistirá no aprimoramento de um dashboard de visualização de dados contendo gráficos interativos, filtros e melhorias voltadas à usabilidade da plataforma. Durante o desenvolvimento, será realizado um retrabalho no banco de dados para polimento das informações dos produtos, garantindo maior padronização e organização dos dados apresentados.
 
-## • Limitações conhecidas
-- Quantidade reduzida de tipos de gráficos;
-- Filtros limitados a dados previamente estruturados;
-- Ausência de personalização avançada de layout;
-- Tooltips com informações básicas;
-- Sem integração com múltiplas fontes externas de dados nesta etapa.
+Também serão implementadas melhorias visuais na interface do dashboard, juntamente com a inclusão de um mapa regional para visualização geográfica das informações e de um botão explicativo responsável por auxiliar os usuários na interpretação dos gráficos exibidos. O sistema continuará utilizando recursos como títulos descritivos, legendas e tooltips para complementar a análise das informações.
 
-## • Escopo reduzido (somente o essencial para validar a ideia)
-O escopo do MVP será focado apenas nos recursos essenciais de visualização e interação necessários para validar a utilidade e usabilidade do dashboard, sem contemplar funcionalidades avançadas, automações complexas ou personalizações completas do sistema.  
+Por se tratar de uma versão inicial do produto, algumas funcionalidades avançadas ainda não estarão disponíveis nesta etapa, como personalizações mais completas de layout, ampliação dos tipos de gráficos e integração com múltiplas fontes externas de dados.
 
 ---
 
