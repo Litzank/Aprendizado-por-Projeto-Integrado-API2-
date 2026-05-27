@@ -80,12 +80,11 @@ A plataforma deverá conter os seguintes módulos:
 | US8  | Como gestor de projeto, quero aplicar um filtro por tipo de produto, para examinar o comportamento de categorias específicas dentro do conjunto de dados.  | Média      | 4      | 1      |
 | US9  | Como gestor de projeto, quero aplicar um filtro por tipo de transporte, para comparar o uso dos modais em diferentes contextos e interpretações.    | Média      | 4      | 1      |
 | US10 | Como gestor de projeto, quero aplicar um filtro por ano, para observar variações temporais e realizar análises comparativas entre períodos distintos.  | Média      | 4      | 1      |
-| US11 | Como gestor de projeto, quero gráficos com títulos bem definidos, para facilitar a compreensão imediata das informações apresentadas.    | Baixa      | 2      | 2      |
-| US12 | Como gestor de projeto, quero gráficos com paleta de cores consistente, para melhorar a leitura visual e a interpretação dos dados.   | Baixa      | 2      | 2      |
-| US13 | Como gestor de projeto, quero gráficos com legendas claras, para identificar corretamente os elementos representados nas visualizações.   | Baixa      | 2      | 2      |
-| US14 | Como gestor de projeto, quero utilizar múltiplos filtros ao mesmo tempo, para realizar análises combinadas e obter diferentes perspectivas dos dados.   | Média      | 2      | 2      |
-| US15 | Como gestor de projeto, quero visualizar informações detalhadas ao interagir com os gráficos (tooltip), para aprofundar a análise de pontos específicos dos dados.   | Média      | 2      | 2      |
-| US16 | Como gestor de projeto, quero um dashboard interativo que consolide todos os gráficos e filtros em uma única interface, para integrar as análises, facilitar a exploração dos dados e permitir uma visão completa e comparativa do cenário logístico estudado. | Alta       | 10     | 3      |
+| US11 | Como gestor de projeto, quero visualizar gráficos mais organizados e intuitivos, para melhorar a interpretação das informações apresentadas. | Média | 2 | 2 |
+| US12 | Como gestor de projeto, quero visualizar informações regionais através de um mapa interativo, para facilitar a análise geográfica dos dados. | Média | 3 | 3 |
+| US13 | Como gestor de projeto, quero acessar explicações sobre os gráficos apresentados, para compreender melhor os indicadores exibidos. | Média | 2 | 2 |
+| US14 | Como gestor de projeto, quero visualizar informações padronizadas e organizadas dos produtos, para reduzir inconsistências durante a análise dos dados. | Alta | 3 | 3 |
+| US15 | Como gestor de projeto, quero um dashboard interativo que consolide todos os gráficos e filtros em uma única interface, para integrar as análises, facilitar a exploração dos dados e permitir uma visão completa e comparativa do cenário logístico estudado. | Alta       | 10     | 3      |
 
 
 # Registro das Sprints
@@ -94,6 +93,6 @@ A plataforma deverá conter os seguintes módulos:
 |-------------------|------------|----------|-----------|
 | Video do Problema | 01/04/2026 | Entregue | [Video](https://www.youtube.com/watch?v=p4WN1IQ7SHc)|
 | 01                | 29/04/2026 | Entregue  | [MVP](MVP/sp1.md)  |
-| 02                | 20/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 20/05/2026 | Entregue  | [MVP](MVP/sp2.md)  |
 | 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
