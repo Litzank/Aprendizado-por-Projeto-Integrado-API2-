@@ -53,7 +53,7 @@ Focado exclusivamente na apresentação visual do painel e na organização bás
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | Polimento das informações e funcionalidades para melhor design das mesmos exibidos nos graficos | Em andamento |
+| 02     | Polimento das informações e funcionalidades para melhor design das mesmos exibidos nos graficos | Concluido |
 | 03     | Entrega do produto | Concluido |
 
 ---
