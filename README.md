@@ -81,10 +81,13 @@ A plataforma deverá conter os seguintes módulos:
 | US9  | Como gestor de projeto, quero aplicar um filtro por tipo de transporte, para comparar o uso dos modais em diferentes contextos e interpretações.    | Média      | 4      | 1      |
 | US10 | Como gestor de projeto, quero aplicar um filtro por ano, para observar variações temporais e realizar análises comparativas entre períodos distintos.  | Média      | 4      | 1      |
 | US11 | Como gestor de projeto, quero visualizar gráficos mais organizados e intuitivos, para melhorar a interpretação das informações apresentadas. | Média | 2 | 2 |
-| US12 | Como gestor de projeto, quero visualizar informações regionais através de um mapa interativo, para facilitar a análise geográfica dos dados. | Média | 3 | 3 |
+| US12 | Como gestor de projeto, quero visualizar informações regionais através de um mapa interativo, para facilitar a análise geográfica dos dados. | Média | 3 | 2 |
 | US13 | Como gestor de projeto, quero acessar explicações sobre os gráficos apresentados, para compreender melhor os indicadores exibidos. | Média | 2 | 2 |
-| US14 | Como gestor de projeto, quero visualizar informações padronizadas e organizadas dos produtos, para reduzir inconsistências durante a análise dos dados. | Alta | 3 | 3 |
-| US15 | Como gestor de projeto, quero um dashboard interativo que consolide todos os gráficos e filtros em uma única interface, para integrar as análises, facilitar a exploração dos dados e permitir uma visão completa e comparativa do cenário logístico estudado. | Alta       | 10     | 3      |
+| US14 | Como gestor de projeto, quero visualizar informações padronizadas e organizadas dos produtos, para reduzir inconsistências durante a análise dos dados. | Alta | 3 | 2 |
+| US15 | Como gestor de projeto, quero ver a logo da FacLog na capa do Power BI para identificar o sistema como parte da nossa marca.         | Baixa  | 2 pontos   |3      |
+| US16 | Como gestor de projeto, quero uma tipografia mais clara e organizada para facilitar a leitura dos tópicos apresentados.       | Baixa  | 2 pontos   |3      |
+| US17 | Como gestor de projeto,  quero que itens semelhantes estejam agrupados no banco de dados para que os relatórios não apresentem dados duplicados ou fragmentados.quero uma tipografia mais clara e organizada para facilitar a leitura dos tópicos apresentados.       | Baixa  | 2 pontos   |3      |
+| US18 | Como gestor de projeto, quero um dashboard interativo que consolide todos os gráficos e filtros em uma única interface, para integrar as análises, facilitar a exploração dos dados e permitir uma visão completa e comparativa do cenário logístico estudado. | Alta       | 10     | 3      |
 
 
 # Registro das Sprints
@@ -94,5 +97,5 @@ A plataforma deverá conter os seguintes módulos:
 | Video do Problema | 01/04/2026 | Entregue | [Video](https://www.youtube.com/watch?v=p4WN1IQ7SHc)|
 | 01                | 29/04/2026 | Entregue  | [MVP](MVP/sp1.md)  |
 | 02                | 27/05/2026 | Entregue  | [MVP](MVP/sp2.md)  |
-| 03                | 10/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
+| 03                | 17/06/2026 | Entregue  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 24/06/2026 | a fazer  | [MVP](#)  |
