@@ -47,7 +47,8 @@ Focado exclusivamente na apresentação visual do painel e na organização bás
 | US15 | Como gestor de projeto, quero ver a logo da FacLog na capa do Power BI para identificar o sistema como parte da nossa marca.         | Baixa  | 2 pontos   |
 | US16 | Como gestor de projeto, quero uma tipografia mais clara e organizada para facilitar a leitura dos tópicos apresentados.       | Baixa  | 2 pontos   |
 | US17 | Como gestor de projeto,  quero que itens semelhantes estejam agrupados no banco de dados para que os relatórios não apresentem dados duplicados ou fragmentados.quero uma tipografia mais clara e organizada para facilitar a leitura dos tópicos apresentados.       | Baixa  | 2 pontos   |
-| US18 | Como gestor de projeto, quero um dashboard interativo que consolide todos os gráficos e filtros em uma única interface, para integrar as análises, facilitar a exploração dos dados e permitir uma visão completa e comparativa do cenário logístico estudado. | Alta       | 10     |
+| US18 | Como gestor de projeto, quero um dashboard interativo que consolide todos os gráficos e filtros em uma única interface, para integrar as análises, facilitar a exploração dos dados e permitir uma visão completa e comparativa do cenário logístico estudado. | Alta       | 10 pontos    |
+
 ---
 
 ## 📅 Sprint(s) Relacionadas
