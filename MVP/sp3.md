@@ -19,10 +19,10 @@ O usuário terá acesso a um painel Power BI com identidade visual da marca FacL
 Nesta sprint foram desenvolvidas melhorias visuais no painel Power BI e reestruturação do banco de dados para consolidação de itens semelhantes.
 
 Funcionalidades principais incluídas:
-*Capa personalizada no Power BI com a logo da FacLog
-*Atualização de tipografia e formatação textual dos tópicos
-*Remoção de botões não utilizados para limpeza da interface
-*Congregação de itens similares no banco de dados (ex: tipos de álcool unificados em uma única categoria)
+- Capa personalizada no Power BI com a logo da FacLog
+- Atualização de tipografia e formatação textual dos tópicos
+- Remoção de botões não utilizados para limpeza da interface
+- Congregação de itens similares no banco de dados (ex: tipos de álcool unificados em uma única categoria)
 
 Limitações conhecidas:
 A congregação de itens ainda pode não cobrir todos os casos de redundância existentes no banco
