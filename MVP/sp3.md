@@ -76,10 +76,7 @@ Focado exclusivamente na apresentação visual do painel e na organização bás
 
 ---
 
+## 📂 Anexos / Evidências
 ## Vídeo de demonstração de Conclusão e Sprint 3
 
 [▶️ Assista ao vídeo no YouTube](https://www.youtube.com/watch?v=zd7OZaouvKM)
-## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
